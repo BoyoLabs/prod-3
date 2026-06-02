@@ -1,5 +1,5 @@
 /* ============================================================
-   Cubicle Wall Planter Saddle
+   Cubicle Wall Planter Saddle - by Boyo Labs
 
    A self-contained planter trough that saddles a 3.03" cubicle
    wall. Lofted arms grip both faces of the wall panel.
