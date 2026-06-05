@@ -1,6 +1,9 @@
 # prod-3
 3rd iteration for my projects.
 
+## MyQuant.md (WIP)
+* a RAG for AI to act as a quant/stock trading advisor. Work in progress and individualized for me.
+
 ## RusticBucket.scad
 * a planter I designed to hold an alpine strawberry plant (a wild, non runner shooting variant.)
 
