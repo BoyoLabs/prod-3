@@ -1,7 +1,7 @@
 # prod-3
 3rd iteration for my projects.
 
-## MyQuant.yaml (WIP)
+## MyQuant.md (WIP)
 * a RAG for AI to act as a quant/stock trading advisor. Work in progress and individualized for me. If you'd like to give it a try, you can give claude the link and it will retreive it. Otherwise, you will need to download the file. Alternatively, you can create a skill with this or whatever.
 
 ## RusticBucket.scad
