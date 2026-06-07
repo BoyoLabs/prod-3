@@ -1,6 +1,9 @@
 # prod-3
 3rd iteration for my projects.
 
+## agentic-trading-log-setup.md
+* this is a file you ask your claude code to run through and it will set up an agentic style of trading for you. It will create a few files that it will use to log your trades, as well as your preferences for risk and so forth.
+
 ## CorruptedTopology.md
 * a log that shows a powershell script for resetting display topology.
 
