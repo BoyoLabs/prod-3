@@ -2,7 +2,7 @@
 
 > **For the human:** Just tell your Claude: *"Read INSTALL.md and set up my trading log."*
 > Claude will read this file, ask you a few questions, and build everything in this folder.
-> You don't need to read or understand the rest of this file — it's instructions for Claude.
+> You don't need to read or understand the rest of this file — it's instructions for Claude. By Boyo Labs
 
 ---
 <!-- ============================================================
