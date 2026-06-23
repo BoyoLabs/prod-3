@@ -1,6 +1,9 @@
 # prod-3
 3rd iteration for my projects.
 
+## PromptEngineer.md
+* this is a structured prompt for structured prompt creation. If you are looking to create prompts, this can help you generate prompts in markdown.
+
 ## agentic-trading-log-setup.md
 * this is an LLM-native application file. You ask your claude code to run through and it will set up an agentic style of trading for you. It will create a few files that it will use to log your trades, as well as your preferences for risk and so forth.
 
