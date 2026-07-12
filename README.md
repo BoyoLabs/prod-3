@@ -1,6 +1,9 @@
 # prod-3
 3rd iteration for my projects.
 
+## Prompt-Claude-remote-control-on-boot.md
+* a prompt to have claude code remote-control start on boot. creating a sort of headless AI server.
+
 ## PromptEngineer.md
 * this is a structured prompt for structured prompt creation. If you are looking to create prompts, this can help you generate prompts in markdown.
 
